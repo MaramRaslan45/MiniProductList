@@ -1,0 +1,14 @@
+body{
+    padding: 50px;
+   
+    background-color:rgba(218, 211, 211, 0.418) ;
+    background-image: var(--bs-gradient);
+}
+.thumb-image{
+
+    width:50px;
+}
+.update-image
+{
+    width:120px;
+}

@@ -1,0 +1,13 @@
+{
+    "name": "maram/app",
+    "description": "E-Commerce",
+    "license": "MIT",
+    "require": {
+        "ext-pdo": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\" :"./"
+        }
+    }
+}
